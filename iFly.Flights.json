@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "64d88fd773209f9180da302f"
+  },
+  "Carrier": "Vistara",
+  "From": "Delhi",
+  "To": "Mumbai",
+  "Dep": "1130",
+  "Arr": "1405"
+},
+{
+  "_id": {
+    "$oid": "64d8ec7173209f9180da3036"
+  },
+  "Carrier": "Indigo",
+  "From": "Chennai",
+  "To": "Mumbai",
+  "Dep": "1530",
+  "Arr": "1635"
+}]

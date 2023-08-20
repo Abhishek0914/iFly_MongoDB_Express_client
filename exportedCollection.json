@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "64d8d0761a7f702253fdff4e"
+  },
+  "title": "Core Java",
+  "description": "Good Book",
+  "published": true,
+  "createdAt": {
+    "$date": "2023-08-13T12:45:42.270Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-13T12:45:42.270Z"
+  },
+  "__v": 0
+}]
